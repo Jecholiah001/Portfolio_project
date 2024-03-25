@@ -1,0 +1,77 @@
+[
+    {
+        "index":"1",
+        "name":" Audiophile E-commecce Website",
+        "image":"assets/audiophile preview.png",
+        "skill1":"react",
+        "skill2":"tailwind css",
+        "projectLink":"",
+        "codeLink":"https://github.com/Jecholiah001/Audio_Ecommerce_Website"
+
+    },
+    
+    {
+        "index":"2",
+        "name":"Countries API Website",
+        "image":"assets/countriesApi.png",
+        "skill1":"react",
+        "skill2":"tailwind",
+        "skill3":"axios",
+        "projectLink":"",
+        "codeLink":""
+
+    },
+    {
+        "index":"3",
+        "name":"React To Do webpage",
+        "image":"/assets/todo app preview.JPG",
+        "skill1":"react",
+        "skill2":"tailwind",
+        "projectLink":"",
+        "codeLink":"https://github.com/Jecholiah001/React_To_Do_App"
+    },
+    {
+        "index":"4",
+        "name":"Github User Search Webpage",
+        "image":"/assets/todo app preview.JPG",
+        "skill1":"React",
+        "skill2":"tailwind",
+        "projectLink":"",
+        "codeLink":"https://github.com/Jecholiah001/DevFinder"
+    },
+    {
+        "index":"5",
+        "name":"Simple login,Sign Up and Password recovery Website",
+        "image":"/assets/todo app preview.JPG",
+        "skill1":"React",
+        "skill2":"CSS",
+        "projectLink":"",
+        "codeLink":"https://github.com/Jecholiah001/C4_React_Project"
+    },
+    {
+        "index":"6",
+        "name":"Tapas Todo List Webpage",
+        "image":"/assets/todo app preview.JPG",
+        "skill1":"Javascript(JS)",
+        "projectLink":"https://jecholiah001.github.io/Todo-List-app/",
+        "codeLink":"https://github.com/Jecholiah001/Todo-List-app"
+    },
+    {
+        "index":"7",
+        "name":"Animated Clock Webpage",
+        "image":"/assets/todo app preview.JPG",
+        "skill1":"Javascript(JS)",
+        "projectLink":"https://jecholiah001.github.io/animated-clock/",
+        "codeLink":"https://github.com/Jecholiah001/animated-clock"
+    },
+    {
+        "index":"8",
+        "name":"Countdown Webpage",
+        "image":"/assets/todo app preview.JPG",
+        "skill1":"Javascript(JS)",
+        "projectLink":"https://jecholiah001.github.io/Countdown-app/",
+        "codeLink":"https://github.com/Jecholiah001/Countdown-app"
+    }
+
+
+]

@@ -12,17 +12,14 @@ export default {
       textColor: [ 'responsive', 'hover', 'focus', 'active'],
 
       fontFamily:{
-        custom:['Manrope, sans-serif']
+        custom:['Space Grotesk,  sans-serif']
       },
 
       colors:{
-        lightOrange:'#FBAF85',
-        deepOrange:'#D87D4A',
-        lightGrey:'#FAFAFA',
-        deepGrey:'#F1F1F1',
-        deeperGrey:'#4C4C4C',
-        lightBlack:'#101010',
-        lighterBlack:'#191919',
+        cyan:'#4EE1A0',
+        lightGrey:'#D9D9D9',
+        deepGrey:'#242424',
+        lightBlack:'#151515',
       },
     },
   },
