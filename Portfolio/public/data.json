@@ -5,7 +5,7 @@
         "image":"assets/audiophile preview.png",
         "skill1":"React",
         "skill2":"Tailwind CSS",
-        "projectLink":"",
+        "projectLink":"https://audio-ecommerce-websit-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",
         "codeLink":"https://github.com/Jecholiah001/Audio_Ecommerce_Website"
 
     },
@@ -16,8 +16,8 @@
         "image":"assets/countriesApi.png",
         "skill1":"React",
         "skill2":"Tailwind CSS",
-        "projectLink":"",
-        "codeLink":""
+        "projectLink":"https://countries-app-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",
+        "codeLink":"https://github.com/Jecholiah001/Countries_App"
 
     },
     {
@@ -35,7 +35,7 @@
         "image":"/assets/todo app preview.JPG",
         "skill1":"React",
         "skill2":"tailwind",
-        "projectLink":"",
+        "projectLink":"https://dev-finder-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",
         "codeLink":"https://github.com/Jecholiah001/DevFinder"
     }
 ]
