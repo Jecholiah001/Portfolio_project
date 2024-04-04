@@ -2,7 +2,7 @@
     {
         "index":"1",
         "name":" Audiophile E-commerce Website",
-        "image":"assets/audiophile preview.png",
+        "image":"assets/audiophile.png",
         "skill1":"React",
         "skill2":"Tailwind CSS",
         "projectLink":"https://audio-ecommerce-websit-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",
@@ -13,7 +13,7 @@
     {
         "index":"2",
         "name":"Countries API Website",
-        "image":"assets/countriesApi.png",
+        "image":"assets/countries.png",
         "skill1":"React",
         "skill2":"Tailwind CSS",
         "projectLink":"https://countries-app-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",
@@ -23,7 +23,7 @@
     {
         "index":"3",
         "name":"React To Do webpage",
-        "image":"/assets/todo app preview.JPG",
+        "image":"/assets/todo.png",
         "skill1":"react",
         "skill2":"CSS",
         "projectLink":"https://react-to-do-app-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",
@@ -31,8 +31,8 @@
     },
     {
         "index":"4",
-        "name":"Github User Search(DevFinder) Webpage",
-        "image":"/assets/todo app preview.JPG",
+        "name":"Github User Search Webpage",
+        "image":"/assets/usersearch.png",
         "skill1":"React",
         "skill2":"tailwind",
         "projectLink":"https://dev-finder-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",

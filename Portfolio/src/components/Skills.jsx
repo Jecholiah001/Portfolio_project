@@ -34,7 +34,7 @@ const Skills = () => {
     <>
     <div className='bg-lightBlack text-lightGrey font-custom' >
         <hr className='border-[1px] xl:mx-32 lg:mx-20 md:mx-7 mx-5'/>
-        <div className='grid grid-cols-1  md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-5 lg:gap-10 py-16 lg:py-12'>
+        <div className='grid grid-cols-1  md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-5 lg:gap-10 py-16 md:py-10 lg:py-12'>
             {skills.map((item,index)=>{
                 return(
                     <div className='mb-4 xl:ml-[130px] lg:ml-20 md:ml-12' key={index}>
