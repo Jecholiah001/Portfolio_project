@@ -46,7 +46,7 @@ const Contactforms = () => {
 
 
   return (
-    <div className=" lg:h-screen font-custom bg-deepGrey text-lightGrey flex flex-col lg:flex-row py-16 lg:py-32">
+    <div className=" lg:h-full font-custom bg-deepGrey text-lightGrey flex flex-col lg:flex-row py-16 lg:py-20">
       <div className='flex flex-col lg:flex-row xl:px-32 lg:px-20 md:px-12 px-6  md:pb-10 lg:gap-10'> 
         <div className="text-center lg:text-start lg:w-1/2">
           <h2 className=" text-[50px] lg:text-[72px] font-[700] leading-[72px] tracking-[2.1px] my-8 ">Contact</h2>

@@ -22,7 +22,7 @@
     },
     {
         "index":"3",
-        "name":"React To Do webpage",
+        "name":"React Todo webpage",
         "image":"/assets/todo.png",
         "skill1":"react",
         "skill2":"CSS",
@@ -37,5 +37,52 @@
         "skill2":"tailwind",
         "projectLink":"https://dev-finder-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",
         "codeLink":"https://github.com/Jecholiah001/DevFinder"
+    },
+
+    {
+        "index":"5",
+        "name":"ReactForms Website",
+        "image":"/assets/usersearch.png",
+        "skill1":"React",
+        "skill2":"CSS",
+        "projectLink":"",
+        "codeLink":"https://github.com/Jecholiah001/C4_React_Projectr"
+    },
+
+    {
+        "index":"6",
+        "name":"Todo List Webpage",
+        "image":"/assets/tapas.png",
+        "skill1":"JavaScript",
+        "skill2":"HTML",
+        "skill3":"CSS",
+        "projectLink":"https://jecholiah001.github.io/Todo-List-app/",
+        "codeLink":"https://github.com/Jecholiah001/Todo-List-app"
+    },
+
+    {
+        "index":"7",
+        "name":"Animated Clock Webpage",
+        "image":"/assets/clock.png",
+        "skill1":"JavaScript",
+        "skill2":"HTML",
+        "skill3":"CSS",
+        "projectLink":"https://jecholiah001.github.io/animated-clock/",
+        "codeLink":"https://github.com/Jecholiah001/animated-clock"
+    },
+
+    {
+        "index":"8",
+        "name":"Countdown Webpage",
+        "image":"/assets/timer.png",
+        "skill1":"JavaScript",
+        "skill2":"HTML",
+        "skill3":"CSS",
+        "projectLink":"https://jecholiah001.github.io/Countdown-app/",
+        "codeLink":"https://github.com/Jecholiah001/Countdown-app"
     }
 ]
+
+
+
+
