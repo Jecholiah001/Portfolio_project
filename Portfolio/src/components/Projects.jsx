@@ -10,7 +10,6 @@ function Projects() {
 
 
   const handleMouseEnter = (index) => {
-
     setIsHovered(index);
   };
 

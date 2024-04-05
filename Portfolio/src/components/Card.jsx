@@ -24,7 +24,7 @@ function Card({item, isHovered}) {
                 </a>
                 <a
                   href={item.codeLink}
-                  className="mt-5 underline underline-offset-[12px] decoration-cyan hover:text-cyan decoration-4 lg:m-auto"
+                  className="mt-4 underline underline-offset-[12px] decoration-cyan hover:text-cyan decoration-4 lg:m-auto"
                 >
                   View Code
                 </a>

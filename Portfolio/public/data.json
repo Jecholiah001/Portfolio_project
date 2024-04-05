@@ -38,19 +38,9 @@
         "projectLink":"https://dev-finder-jecholiah-afua-antwiwaa-opare-s-projects.vercel.app/",
         "codeLink":"https://github.com/Jecholiah001/DevFinder"
     },
-
+    
     {
         "index":"5",
-        "name":"ReactForms Website",
-        "image":"/assets/usersearch.png",
-        "skill1":"React",
-        "skill2":"CSS",
-        "projectLink":"",
-        "codeLink":"https://github.com/Jecholiah001/C4_React_Projectr"
-    },
-
-    {
-        "index":"6",
         "name":"Todo List Webpage",
         "image":"/assets/tapas.png",
         "skill1":"JavaScript",
@@ -61,7 +51,7 @@
     },
 
     {
-        "index":"7",
+        "index":"6",
         "name":"Animated Clock Webpage",
         "image":"/assets/clock.png",
         "skill1":"JavaScript",
@@ -72,7 +62,7 @@
     },
 
     {
-        "index":"8",
+        "index":"7",
         "name":"Countdown Webpage",
         "image":"/assets/timer.png",
         "skill1":"JavaScript",
