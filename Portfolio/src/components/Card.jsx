@@ -14,8 +14,8 @@ function Card({item, isHovered}) {
                 className=" w-full object-fill h-[180px] lg:h-[250px] "
               />
 
-              {(isHovered ||window.innerWidth<=1024) && (
-              <div className="text-[13px] md:text-[16px] text-[700] leading-[26px] tracking-[2.3px] w-full flex text-md absolute top-[23rem] -mt-[100px] md:-mt-20 md:mb-6 lg:-mt-1lg:mx-[10px] lg:top-[5rem] lg:flex-col lg:gap-6 lg:h-[200px]  cursor-pointer">
+              {(isHovered || window.innerWidth<=1024) && (
+              <div className="text-[13px] md:text-[16px] text-[700] leading-[26px] tracking-[2.3px] w-full flex text-md absolute top-[23rem] -mt-[60px] md:-mt-16 md:mb-6  lg:mx-[10px] lg:top-[5rem] lg:flex-col lg:gap-6 lg:h-[200px]  cursor-pointer">
                 <a
                   href={item.projectLink}
                   className="mr-12 mt-5 underline underline-offset-[12px] decoration-cyan hover:text-cyan decoration-4  lg:m-auto"
