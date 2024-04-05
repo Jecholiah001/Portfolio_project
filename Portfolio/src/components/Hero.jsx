@@ -12,7 +12,7 @@ function Hero() {
           <h3 className="text-[15px] text-[500] leading-[28px] tracking-[2.3px] underline hover:text-cyan underline-offset-8  decoration-cyan "><Link to="/contactforms">CONTACT ME</Link></h3>
         </div>
         
-        <img src="/assets/portfolio.png" className="object-contain w-[300px]  md:w-[320px] lg:w-[335px] xl:w-[420px] absolute top-32 md:top-[90px] lg:top-[142px] xl:top-[105px] md:left-[399px] lg:left-[610px] xl:left-[900px]"/>
+        <img src="/assets/portfolio.png" className="object-contain w-[300px]  md:w-[320px] lg:w-[335px] xl:w-[420px] absolute top-32 md:top-[90px] lg:top-[142px] xl:top-[105px] md:left-[399px] lg:left-[630px] xl:left-[900px]"/>
   </div>
 
   )
