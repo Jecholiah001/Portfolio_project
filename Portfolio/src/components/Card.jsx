@@ -1,54 +1,5 @@
  /* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
-// import React from 'react'
-
-// function Card({item}) {
-//   return (
-//     <div className="px-4 py-10 md:px-0 md:py-0 md:mb-24 lg:mb-20  gap-8  ">
-//       <div className="mt-6 grid grid-cols-1 gap-x-6 gap-y-10  md:mb-6 ">
-//         <div className="group relative">
-//           <div className="w-full overflow-hidden rounded-md bg-gray-200  lg:aspect-none lg:group-hover:opacity-15">
-//               <img
-//                 src={item.image}
-//                 alt={item.name}
-//                 className=" w-full object-fill h-[180px] lg:h-[250px] "
-//               />
-
-              
-//               <div className="text-[13px] md:text-[16px] text-[700] leading-[26px] tracking-[2.3px] w-full flex text-md absolute top-[23rem] -mt-[70px] md:-mt-16 md:mb-6  lg:mx-[10px] lg:top-[5rem] lg:flex-col lg:gap-6 lg:h-[200px] cursor-pointer ">
-//                 <a
-//                   href={item.projectLink}
-//                   className="mr-12 mt-5 underline underline-offset-[12px] decoration-cyan hover:text-cyan decoration-4  lg:m-auto"
-//                 >
-//                   View Project
-//                 </a>
-//                 <a
-//                   href={item.codeLink}
-//                   className="mt-4 underline underline-offset-[12px] decoration-cyan hover:text-cyan decoration-4 lg:m-auto"
-//                 >
-//                   View Code
-//                 </a>
-//               </div>
-              
-//           </div>
-//           <div className="mt-4 uppercase text-white font-bold h-12">
-//             <div>
-//               <h2 className="text-[20px] md:text-[24px] text-[700] leading-[32px] mt-7">{item.name}</h2>
-//               <div className="text-[16px] md:text-[18px] text-[700] leading-[28px] flex flex-wrap my-3 lg:my-5">
-//                 <p className="mr-4 ">{item.skill1}</p>
-//                 <p className="mr-4 ">{item.skill2}</p>
-//                 <p className="mr-4 ">{item.skill3}</p>
-//               </div>
-//             </div>
-//           </div>
-//         </div>
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default Card
-
 import React, { useState } from 'react';
 
 function Card({ item }) {
